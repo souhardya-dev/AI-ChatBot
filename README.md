@@ -1,8 +1,9 @@
+# README
 The AI Chatbot is an intelligent conversational system developed using Python and a Large Language Model (LLM) API. Unlike traditional rule-based chatbots, this chatbot understands natural language, maintains conversational context, and generates human-like responses.
 
 The chatbot accepts user queries, sends them to a powerful AI language model through an API, and returns accurate, context-aware responses in real time. It supports continuous interaction, making the conversation feel natural and engaging. This system demonstrates practical implementation of Artificial Intelligence, Natural Language Processing (NLP), and cloud-based AI services.
 
-#Future Scope of AI Chatbot
+# Future Scope of AI Chatbot
 
 The AI chatbot can be further enhanced in several ways to increase its intelligence, usability, and real-world applicability:
 
